@@ -1,0 +1,8 @@
+Ýki Þehrin Hikayesi,Charlie Dickens,1975,65
+Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,78
+ The Hitchhiker's Guide to the Galaxy,Douglas Adams,1999,67
+Pride And Prejudice,Jane Austin,1813,417
+Grape of Wrath,John Steinbeck,1939,470
+One Hundred Years of Solitude,Gabriel Garcia Marquez,1980,321
+The Great Gatsby,F. Scott Fitzgerald,1928,300
+Doðu Ekspresinde Cinayet,Agatha Cristie,315,1956
